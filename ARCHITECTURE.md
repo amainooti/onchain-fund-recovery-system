@@ -273,7 +273,7 @@ try {
 
 ```
 ┌─────────────────────────────────────────┐
-│         API LAYER (Express/Fastify)     │
+│         API LAYER (Express)     │
 │  POST /api/trace                        │
 │  GET  /api/trace/:id                    │
 │  GET  /api/quick-check/:address         │
