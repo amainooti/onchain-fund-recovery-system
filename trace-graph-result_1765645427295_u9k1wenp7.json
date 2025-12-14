@@ -1,0 +1,3975 @@
+{
+  "nodes": [
+    {
+      "id": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "label": "Binance 14",
+      "type": "cex",
+      "inDegree": 17,
+      "outDegree": 50,
+      "totalValueIn": 499.4051,
+      "totalValueOut": 67099024.914587244
+    },
+    {
+      "id": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "label": "0xe69f81...",
+      "type": "eoa",
+      "inDegree": 7,
+      "outDegree": 50,
+      "totalValueIn": 156.21,
+      "totalValueOut": 1112.9122375000004
+    },
+    {
+      "id": "0x99c9fc46f92e8a1c0dec1b1747d010903e884be1",
+      "label": "0x99c9fc...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.00134,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+      "label": "0xaf5191...",
+      "type": "contract",
+      "inDegree": 10,
+      "outDegree": 0,
+      "totalValueIn": 210.00300000000001,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x40ec5b33f54e0e8a33a975908c5ba1c14e5bbbdf",
+      "label": "0x40ec5b...",
+      "type": "contract",
+      "inDegree": 3,
+      "outDegree": 0,
+      "totalValueIn": 318.77,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x5fd79d46eba7f351fe49bff9e87cdea6c821ef9f",
+      "label": "0x5fd79d...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 4,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x80226fc0ee2b096224eeac085bb9a8cba1146f7d",
+      "label": "0x80226f...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.0003,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x03d19033ada17750d5bc2d8e325337d0748f9fef",
+      "label": "0x03d190...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 1.23,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xc4922d64a24675e16e1586e3e3aa56c06fabe907",
+      "label": "0xc4922d...",
+      "type": "contract",
+      "inDegree": 3,
+      "outDegree": 0,
+      "totalValueIn": 3.69,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x72ce9c846789fdb6fc1f34ac4ad25dd9ef7031ef",
+      "label": "0x72ce9c...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.0010825,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x36aff7001294dae4c2ed4fdefc478a00de77f090",
+      "label": "0x36aff7...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 10,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xae0ee0a63a2ce6baeeffe56e7714fb4efe48d419",
+      "label": "0xae0ee0...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.00134,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x6c96de32cea08842dcc4058c14d3aaad7fa41dee",
+      "label": "0x6c96de...",
+      "type": "contract",
+      "inDegree": 2,
+      "outDegree": 0,
+      "totalValueIn": 1.210075,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x401f6c983ea34274ec46f84d70b31c151321188b",
+      "label": "0x401f6c...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 50,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x29e7df7b6a1b2b07b731457f499e1696c60e2c4e",
+      "label": "0x29e7df...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 7,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xfd78ee919681417d192449715b2594ab58f5d002",
+      "label": "0xfd78ee...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 1.23,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xee7ae85f2fe2239e27d9c1e23fffe168d63b4055",
+      "label": "0xee7ae8...",
+      "type": "contract",
+      "inDegree": 5,
+      "outDegree": 0,
+      "totalValueIn": 6.37,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x5495679cfac0b55a03b5f75419c9442851337c9b",
+      "label": "0x549567...",
+      "type": "eoa",
+      "inDegree": 2,
+      "outDegree": 7,
+      "totalValueIn": 46532.2228266,
+      "totalValueOut": 428627.60482659
+    },
+    {
+      "id": "0x8d5cc77e6d135fd0700986e9d5b02ba538f582e6",
+      "label": "0x8d5cc7...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 27198.87,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xc4629579f98d0fcae1a21e36f6a29b668a56c95e",
+      "label": "0xc46295...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 134414.79999999,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xa71b216d962a6c3feb76f848ca9dd8a5cfdf6cee",
+      "label": "0xa71b21...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 19524.2,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x1859b50f0175b2147ce310859a2308e007b5c121",
+      "label": "0x1859b5...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 199987,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x662fd0af0901fcea0a93d1c882c99acfb59f8bef",
+      "label": "0x662fd0...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 25189.4,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x25d171e9c5d3478bb4ae32eda03e33d6b92f590e",
+      "label": "0x25d171...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 21342.8228266,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x08e0261212d660c95037fce8e53dec7cb1e97088",
+      "label": "0x08e026...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 970.512,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xeb6e38f96f6db85f736dcc652a55c045d1a0b9f9",
+      "label": "0xeb6e38...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 2,
+      "totalValueIn": 4,
+      "totalValueOut": 175173.83302516
+    },
+    {
+      "id": "0x4865d4bcf4ab92e1c9ba5011560e7d4c36f54106",
+      "label": "0x4865d4...",
+      "type": "eoa",
+      "inDegree": 2,
+      "outDegree": 0,
+      "totalValueIn": 175173.83302516,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x926cc240713e058dff76b5fb53147146c71a65e2",
+      "label": "0x926cc2...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 236.408659,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x68a8e17d2c6d0ca593d4bd768a42f13d7a07ab6f",
+      "label": "0x68a8e1...",
+      "type": "eoa",
+      "inDegree": 2,
+      "outDegree": 2,
+      "totalValueIn": 973.461142,
+      "totalValueOut": 973.461142
+    },
+    {
+      "id": "0xa26148ae51fa8e787df319c04137602cc018b521",
+      "label": "0xa26148...",
+      "type": "eoa",
+      "inDegree": 2,
+      "outDegree": 0,
+      "totalValueIn": 973.461142,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x888a611d3dfd117e5d9e56ed0fca94047d60d944",
+      "label": "0x888a61...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.01978,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "label": "0xe36869...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 18,
+      "totalValueIn": 0.07423733,
+      "totalValueOut": 0.5851988744858592
+    },
+    {
+      "id": "0xd87e649882806aeaa30e758828268d1858bb7233",
+      "label": "0xd87e64...",
+      "type": "eoa",
+      "inDegree": 17,
+      "outDegree": 0,
+      "totalValueIn": 0.5480711874884232,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x1a9926cf6ed213235e59b9cc23c10746bdce7bd6",
+      "label": "0x1a9926...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.037127686997436,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x700bc8bdbd0b0b5210456c5f051c7188566ec4e2",
+      "label": "0x700bc8...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 9.3674,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x3df6ae3312e94f7742b2e6a7ec9eddb031805232",
+      "label": "0x3df6ae...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.19000012,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xaa64889b6170180b7357bd8600d892efe7ce36c7",
+      "label": "0xaa6488...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 299,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xe1816bb816cc35367a1054118da8085319d3eb3f",
+      "label": "0xe1816b...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.00004953,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x271f95877f0de03e3718e7e440524d30f4cce47c",
+      "label": "0x271f95...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 2,
+      "totalValueIn": 342363.1664,
+      "totalValueOut": 917495.84139173
+    },
+    {
+      "id": "0xf89d7b9c864f589bbf53a82105107622b35eaa40",
+      "label": "0xf89d7b...",
+      "type": "eoa",
+      "inDegree": 3,
+      "outDegree": 0,
+      "totalValueIn": 1149496.36139173,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xa1923497ed1fbafbb1f3492692fb7c400b23f6e5",
+      "label": "0xa19234...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 238.45,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xd84de967602001ffaa7ba684ad725198f4a1fd40",
+      "label": "0xd84de9...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 1,
+      "totalValueIn": 0.44208641,
+      "totalValueOut": 0.442086
+    },
+    {
+      "id": "0xece7319a7e5318b2e99361492be6866640e75b6d",
+      "label": "0xece731...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.442086,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x78649b8554c9cf030e9d809d0ae9099f0f7532ac",
+      "label": "0x78649b...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.00743645,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "label": "0xeb61e9...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 34,
+      "totalValueIn": 108000.12,
+      "totalValueOut": 8788304.447228918
+    },
+    {
+      "id": "0x6522b7f9d481eceb96557f44753a4b893f837e90",
+      "label": "0x6522b7...",
+      "type": "eoa",
+      "inDegree": 13,
+      "outDegree": 0,
+      "totalValueIn": 6185969.7093,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xa1abfa21f80ecf401bd41365adbb6fef6fefdf09",
+      "label": "0xa1abfa...",
+      "type": "eoa",
+      "inDegree": 11,
+      "outDegree": 0,
+      "totalValueIn": 0.5979289175743322,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xf42aac93ab142090db9fdc0bc86aab73cb36f173",
+      "label": "0xf42aac...",
+      "type": "eoa",
+      "inDegree": 6,
+      "outDegree": 0,
+      "totalValueIn": 1626833.13,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xa31231e727ca53ff95f0d00a06c645110c4ab647",
+      "label": "0xa31231...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 476000.4,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x187c9fbf5bd0f266883c03f320260c407c7b4100",
+      "label": "0x187c9f...",
+      "type": "eoa",
+      "inDegree": 2,
+      "outDegree": 0,
+      "totalValueIn": 267500.09,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x5b6aa981a254275918733ea5d19eaa0f7c5b8dc2",
+      "label": "0x5b6aa9...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 1,
+      "totalValueIn": 59,
+      "totalValueOut": 343.104135
+    },
+    {
+      "id": "0xb70f98e53bee56a2e18a15bcd826579f495076f0",
+      "label": "0xb70f98...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 343.104135,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x15f46551f5d736c9b8861c1d1358e29183f7a6c7",
+      "label": "0x15f465...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 162734.11485149,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x48f21dd2c2bc1578ed6fa87cf0b901aebd705d89",
+      "label": "0x48f21d...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 4,
+      "totalValueIn": 10,
+      "totalValueOut": 30.010980901936996
+    },
+    {
+      "id": "0x7e09b3158408226a7d767cab65a9a505e32baea6",
+      "label": "0x7e09b3...",
+      "type": "eoa",
+      "inDegree": 2,
+      "outDegree": 0,
+      "totalValueIn": 10.010980901936996,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x7e09cece3a1523c0cca8cf0436f16ad52cb7aea6",
+      "label": "0x7e09ce...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 10,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x7e0da5b8473e3a41dd00ffe6deb565e2752baea6",
+      "label": "0x7e0da5...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 10,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xd17b5e0794274ee5d1d38fde4cd4d008a7cdc9b0",
+      "label": "0xd17b5e...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 1,
+      "totalValueIn": 0.003585,
+      "totalValueOut": 0.003542145518211
+    },
+    {
+      "id": "0x2e7f2740a839231c41cfde0d531828df312bea04",
+      "label": "0x2e7f27...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.003542145518211,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xd862cdcfeb856c32b3c4f7563f4811d8ddfd42e2",
+      "label": "0xd862cd...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 4758.03,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x2ae6757d9b9118b7e369b796a925cadf2cc4b38b",
+      "label": "0x2ae675...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 1,
+      "totalValueIn": 149,
+      "totalValueOut": 158
+    },
+    {
+      "id": "0xa9d1e08c7793af67e9d92fe308d5697fb81d3e43",
+      "label": "0xa9d1e0...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 158,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x9a5a29aa26c91b6e2243b7b242f76f9355d74c8f",
+      "label": "0x9a5a29...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.02181616,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xa9411c756a5b6ce181a90af40c722f5557694eb0",
+      "label": "0xa9411c...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 13.02,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xfc681b05257ed47345711feea00f4fd793bc0ae6",
+      "label": "0xfc681b...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.0019712,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xa3efbc8a7ab10cf67a1b4fb817d628e8fa7c6bca",
+      "label": "0xa3efbc...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 26.930427,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x4c9af439b1a6761b8e549d8d226a468a6b2803a8",
+      "label": "0x4c9af4...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 2033.38,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x200ef54fe08fa46aef946fc373573238caebe4d5",
+      "label": "0x200ef5...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 84.29,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xe40ed08266ffe7b48b3bae2e59135cf63be4163d",
+      "label": "0xe40ed0...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 8996.97,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xe155991ccdb837bfe25c256dbe4fff27e76e5263",
+      "label": "0xe15599...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 3,
+      "totalValueIn": 0.03371497,
+      "totalValueOut": 0.11991574999999999
+    },
+    {
+      "id": "0xfd0237965e2d51353121d8685936fa9659ff6328",
+      "label": "0xfd0237...",
+      "type": "eoa",
+      "inDegree": 3,
+      "outDegree": 0,
+      "totalValueIn": 0.11991574999999999,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x4c218629c66d5b3a440da78e70eaa15cc65a42bf",
+      "label": "0x4c2186...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 6247082,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x3b9c519c6fee1607542b71a1769d098049be400f",
+      "label": "0x3b9c51...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 2,
+      "totalValueIn": 0.0023,
+      "totalValueOut": 400.38
+    },
+    {
+      "id": "0x217e42ceb2eae9ecb788fdf0e31c806c531760a3",
+      "label": "0x217e42...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 200.19,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xc5d6a7b61d18afa11435a889557b068bb9f29930",
+      "label": "0xc5d6a7...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 200.19,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x26b5a3519002957b3b2bbe9bc25eeed8d9448a1c",
+      "label": "0x26b5a3...",
+      "type": "eoa",
+      "inDegree": 2,
+      "outDegree": 0,
+      "totalValueIn": 60166881.06,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xb66dab3f09134091de75423f39546b7f019f92bb",
+      "label": "0xb66dab...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 196,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xae9ed473f2212c6ace1063f317fe65eb8ae2a6fc",
+      "label": "0xae9ed4...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 1,
+      "totalValueIn": 0.0618,
+      "totalValueOut": 0.06
+    },
+    {
+      "id": "0xc73a02c63277fc12f28ae6d78bd7e1b6b425911b",
+      "label": "0xc73a02...",
+      "type": "contract",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.06,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xf8f407b320966ea76fe393da78fa5d27a0d62654",
+      "label": "0xf8f407...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.0029968,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "label": "0x8672a3...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 50,
+      "totalValueIn": 2049.79457105,
+      "totalValueOut": 6708554.343544008
+    },
+    {
+      "id": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "0x1579b5...",
+      "type": "eoa",
+      "inDegree": 27,
+      "outDegree": 0,
+      "totalValueIn": 5907206.75314385,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "0x6b1308...",
+      "type": "eoa",
+      "inDegree": 18,
+      "outDegree": 0,
+      "totalValueIn": 785609.7797692001,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x59e0cda5922efba00a57794faf09bf6252d64126",
+      "label": "0x59e0cd...",
+      "type": "eoa",
+      "inDegree": 5,
+      "outDegree": 0,
+      "totalValueIn": 15737.81063096,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x00012a278c3fa0ea497ef4bb4d2885093a43c91e",
+      "label": "0x00012a...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 19,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xb5cf2ca46060ece8a330813b0a37a6669177fe0a",
+      "label": "0xb5cf2c...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.21473907,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "label": "0x016606...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 50,
+      "totalValueIn": 3910.84179706,
+      "totalValueOut": 112972892.87006207
+    },
+    {
+      "id": "0x874bec9a44a97843f2ce9dcca0d05b2a6550ab4d",
+      "label": "0x874bec...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.00705428,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xc894cc4349086f03ddd04800462332a338cd1859",
+      "label": "0xc894cc...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 395.515476,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x027bd2b3fac84522c545727d63bb2791750c9e0f",
+      "label": "0x027bd2...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 500.919879,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x6f2dc9e11146ce6c0403e5358a469a9c5b8588cb",
+      "label": "0x6f2dc9...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.192944313948,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x135f1ac0624f8dc728945d02e9f9c726d0489371",
+      "label": "0x135f1a...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.192944313948,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x14112bc1e2808dab8ae8a6842c940edf611955ef",
+      "label": "0x14112b...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 1008.802908,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xf329828b38837729d1989398594c267821509c2a",
+      "label": "0xf32982...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 3911.86179706,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x309c9d1233ca446b4bfa96c3a19593fcb1fe4a08",
+      "label": "0x309c9d...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 200.843665,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xcfaf456281b13c05ee52b6a3db07e8f3967632b1",
+      "label": "0xcfaf45...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.03439084916239359,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x92183ba312f2e63a5ee0ef1b800e20890395cb17",
+      "label": "0x92183b...",
+      "type": "eoa",
+      "inDegree": 3,
+      "outDegree": 0,
+      "totalValueIn": 112960179.91987461,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x9349e326415da81fcd478ab6cb1a45caf076f78b",
+      "label": "0x9349e3...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.72628198,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xf4bcb58f907658ddb40156a673a5e7c4faff629f",
+      "label": "0xf4bcb5...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.01935858916,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xe6d88fb54e177beb32983903ed1fe85950c9a787",
+      "label": "0xe6d88f...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.00309954,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xc8083e161a10d7b7c9783767933ee89cbd9124af",
+      "label": "0xc8083e...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 28.299246,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x96de48cb3dce888cedb1c285d3d21412a9961d5e",
+      "label": "0x96de48...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.009469946296,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xe9de7b9b0fc7f05751929c2345cff30e72d453a6",
+      "label": "0xe9de7b...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 13.035357,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x312791ccc29fa0ed1bc3d780f76b78dacd16d2f8",
+      "label": "0x312791...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.003063164742506515,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x89bd18dace3dd976197b6efec8d8d1f48caf9cd2",
+      "label": "0x89bd18...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.1114399058,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x6985f13d233853d558643ce8fb0a55c78723a59d",
+      "label": "0x6985f1...",
+      "type": "eoa",
+      "inDegree": 2,
+      "outDegree": 0,
+      "totalValueIn": 0.33179083306702006,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x0b760b5b52b969c3379e2fababf37e7b185ded4f",
+      "label": "0x0b760b...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.06809969,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xcf3ceb5e6f388d4b62b5d85746eef4c8023e359e",
+      "label": "0xcf3ceb...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 36.92,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x6fb5919068eb83755de33d83b412afe52205beb2",
+      "label": "0x6fb591...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.06372672125254912,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x23d2154f426075e44ddc9ee28da2ffd419448baa",
+      "label": "0x23d215...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.12757762345229762,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x6b6423b6d988f83ce2cf851ba0f52908a2e47d91",
+      "label": "0x6b6423...",
+      "type": "eoa",
+      "inDegree": 2,
+      "outDegree": 0,
+      "totalValueIn": 196.32000499999998,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xe93e67d21978a862ea1b0682ce2b0771e3b1e798",
+      "label": "0xe93e67...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.010143329177302986,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x21ab38212aeb621a5b0ef90ce77b7dfb6063b795",
+      "label": "0x21ab38...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.00627683,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xc2c63f3525f0439dd8068c45f84c988a9773aab8",
+      "label": "0xc2c63f...",
+      "type": "eoa",
+      "inDegree": 4,
+      "outDegree": 0,
+      "totalValueIn": 218.23,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xa2ec80e808bb62e39bb8833d45267bf8cc8eb824",
+      "label": "0xa2ec80...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 555.232738,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xb60ec534b47b495701e495837896af560161cc7d",
+      "label": "0xb60ec5...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.001833918439390092,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xdcca895fb90275b481f2003efce888540b5ec5f5",
+      "label": "0xdcca89...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.35141574,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xbb84c3f3f1999cef737e3e1b4f6aae4f948b336f",
+      "label": "0xbb84c3...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.02703865,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x368b19bb1189f3ef1ede9ad2e50c0b39909c4f31",
+      "label": "0x368b19...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 152.082888,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x9f167d12cff3813ab6266db958cffeb6e16e8434",
+      "label": "0x9f167d...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 500.516705,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xf839d9d7bef6dc59b55c5ac6dd796cfddb393be6",
+      "label": "0xf839d9...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 357.86,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xd9dad9ddbaff5958f3497c0bd7322f85519bb9d6",
+      "label": "0xd9dad9...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 300,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xe1413b9c6c5c82fa4d2181e55cbfdf227a661321",
+      "label": "0xe1413b...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 2957.419686,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xec7265f889ac15144257f81ab31ca4ad6780f13d",
+      "label": "0xec7265...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 205.54474,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x95a53bb02455c81cdef93bf1412c72fba4a588b1",
+      "label": "0x95a53b...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.0078886125,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xf5771d44fb1899b255e24d050052284fab0a059f",
+      "label": "0xf5771d...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.081651958212,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xb4dd11f79f96568667df5b13c0f68ce4f76892d3",
+      "label": "0xb4dd11...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.04332338582,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xe6a1defe48288da95c9eb70633c6f41f056af335",
+      "label": "0xe6a1de...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 0.16233421280359459,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x4ea060b375d81b39869662e6fa9c07ea998b0aa4",
+      "label": "0x4ea060...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 85.472426,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0x2b91ab7170ab76245672fc114607b69b33cac927",
+      "label": "0x2b91ab...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 1085.489523,
+      "totalValueOut": 0
+    },
+    {
+      "id": "0xfbf26d97658925cf335d2bbeecde4c1edcfdc680",
+      "label": "0xfbf26d...",
+      "type": "eoa",
+      "inDegree": 1,
+      "outDegree": 0,
+      "totalValueIn": 1208,
+      "totalValueOut": 0
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_0",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "label": "4.0 SNX",
+      "value": 4,
+      "txHash": "0x32566314d42a0b8fc355b6509e707d5d2e019441a050004879518d52226dfe63",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_1",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x99c9fc46f92e8a1c0dec1b1747d010903e884be1",
+      "label": "0.00134 ETH",
+      "value": 0.00134,
+      "txHash": "0xb64b2c71c78c0a05c6cf8a487711e99db9848e593ae638a285a5dc62ac9e4688",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_2",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+      "label": "0.0006 ETH",
+      "value": 0.0006,
+      "txHash": "0x67c703dcfe663c2422c88b5e8be8d19166664b5a70c9b5a05f08dbf17104fd9d",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_3",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+      "label": "42.0 STG",
+      "value": 42,
+      "txHash": "0x67c703dcfe663c2422c88b5e8be8d19166664b5a70c9b5a05f08dbf17104fd9d",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_4",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+      "label": "0.0006 ETH",
+      "value": 0.0006,
+      "txHash": "0x6dc8a1decf37c5193e8623c3ed6b91283011453df2941d2de850445b06aa045b",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_5",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+      "label": "42.0 STG",
+      "value": 42,
+      "txHash": "0x6dc8a1decf37c5193e8623c3ed6b91283011453df2941d2de850445b06aa045b",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_6",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+      "label": "0.0006 ETH",
+      "value": 0.0006,
+      "txHash": "0x1f3a7139556aeb08c35ab16bc7e8042cdd3a075ba09729ce24c57f1fbdb0c37c",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_7",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+      "label": "42.0 STG",
+      "value": 42,
+      "txHash": "0x1f3a7139556aeb08c35ab16bc7e8042cdd3a075ba09729ce24c57f1fbdb0c37c",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_8",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+      "label": "0.0006 ETH",
+      "value": 0.0006,
+      "txHash": "0x0fa14029736f4ff35a607a0d853a16491715da5dd7548e980db2a803ef54739b",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_9",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+      "label": "42.0 STG",
+      "value": 42,
+      "txHash": "0x0fa14029736f4ff35a607a0d853a16491715da5dd7548e980db2a803ef54739b",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_10",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "label": "0.00121 ETH",
+      "value": 0.00121,
+      "txHash": "0x882fb3f786d37ab2c8f0372eb2ddc533203199025bcf32608eba92e9190ddd27",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_11",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x40ec5b33f54e0e8a33a975908c5ba1c14e5bbbdf",
+      "label": "300.0 DATA",
+      "value": 300,
+      "txHash": "0x59ea2d95c9b8cc47aa083a893d67808fe68e70ccd425e596e1ea9791d868a669",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_12",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x5fd79d46eba7f351fe49bff9e87cdea6c821ef9f",
+      "label": "4.0 SNX",
+      "value": 4,
+      "txHash": "0x0ef267cb7913b1076453a0f49ea2af710971dc1df15a0ddf36ce633b3407f5a1",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_13",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x80226fc0ee2b096224eeac085bb9a8cba1146f7d",
+      "label": "0.0003 ETH",
+      "value": 0.0003,
+      "txHash": "0x367be2666e3dc28538eb2b4ff8f4303d72910c970620997dd854d21d13f83e1a",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_14",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x03d19033ada17750d5bc2d8e325337d0748f9fef",
+      "label": "1.23 USDC",
+      "value": 1.23,
+      "txHash": "0x367be2666e3dc28538eb2b4ff8f4303d72910c970620997dd854d21d13f83e1a",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_15",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xc4922d64a24675e16e1586e3e3aa56c06fabe907",
+      "label": "1.23 USDC",
+      "value": 1.23,
+      "txHash": "0x384419e000313e715b0a1b099eeb345d3c5aa1fb4d340eebdd1454fc754b6f7f",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_16",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x40ec5b33f54e0e8a33a975908c5ba1c14e5bbbdf",
+      "label": "8.77 DAI",
+      "value": 8.77,
+      "txHash": "0x462eb46de5aa956c50a1d0c8840c643dea23882e1d151bf2044f2156d6568e07",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_17",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x40ec5b33f54e0e8a33a975908c5ba1c14e5bbbdf",
+      "label": "10.0 GRT",
+      "value": 10,
+      "txHash": "0x81bf0475c23e207bdbfc8e9d75944fb713a5bed815ee3a828cbbf430f1b7266f",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_18",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x72ce9c846789fdb6fc1f34ac4ad25dd9ef7031ef",
+      "label": "0.0010825 ETH",
+      "value": 0.0010825,
+      "txHash": "0xf8d82f94f52bf2831bd4d2df297c5a03990a0f289ed5b476eea504eed23e89d0",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_19",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x36aff7001294dae4c2ed4fdefc478a00de77f090",
+      "label": "10.0 GRT",
+      "value": 10,
+      "txHash": "0xf8d82f94f52bf2831bd4d2df297c5a03990a0f289ed5b476eea504eed23e89d0",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_20",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+      "label": "0.0006 ETH",
+      "value": 0.0006,
+      "txHash": "0xd8710abaea7a0f249eb7ee773fe3d2be6a248c8bd2b27ac92845c07ef8e4daff",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_21",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+      "label": "42.0 STG",
+      "value": 42,
+      "txHash": "0xd8710abaea7a0f249eb7ee773fe3d2be6a248c8bd2b27ac92845c07ef8e4daff",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_22",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xae0ee0a63a2ce6baeeffe56e7714fb4efe48d419",
+      "label": "0.00134 ETH",
+      "value": 0.00134,
+      "txHash": "0x13f7ce278188eb30ca4c296462e78c12bb21cd940fd081841ea69693ab7f0808",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_23",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x6c96de32cea08842dcc4058c14d3aaad7fa41dee",
+      "label": "0.000075 ETH",
+      "value": 0.000075,
+      "txHash": "0x67a515aebe036ac5abbee85cc744d51f328954cc9629a2757ef39bc289fdcb1b",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_24",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x6c96de32cea08842dcc4058c14d3aaad7fa41dee",
+      "label": "1.21 USDT",
+      "value": 1.21,
+      "txHash": "0x67a515aebe036ac5abbee85cc744d51f328954cc9629a2757ef39bc289fdcb1b",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_25",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xc4922d64a24675e16e1586e3e3aa56c06fabe907",
+      "label": "1.23 USDC",
+      "value": 1.23,
+      "txHash": "0x97ae5bdf0294de6f9375f20cf93c114d62b8e369eceb61332fd94624f8257b31",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_26",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x401f6c983ea34274ec46f84d70b31c151321188b",
+      "label": "50.0 POL",
+      "value": 50,
+      "txHash": "0xd12eafdc1c83dadc1756a213d95da4db06b8727a3bc799877552d4235d315075",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_27",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x29e7df7b6a1b2b07b731457f499e1696c60e2c4e",
+      "label": "7.0 MATIC",
+      "value": 7,
+      "txHash": "0x285faef242021ba64d6d99cd7957eaa555d7dd3ce634600579572e70ff870d67",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_28",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xfd78ee919681417d192449715b2594ab58f5d002",
+      "label": "1.23 USDC",
+      "value": 1.23,
+      "txHash": "0xb5543a6c801f97687445ac9e233323c53fbacfa5f9ce8dad08e532f68ef91205",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_29",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "label": "42.0 STG",
+      "value": 42,
+      "txHash": "0x125a50ebe5c517ac7c7fb5446e35f393b0fe0ece0089579ced2f420f4fd6a848",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_30",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "label": "42.0 STG",
+      "value": 42,
+      "txHash": "0xee1564be42517c6156a01a4f033004d63fc5aa6304e81db43f02fe0c4b417711",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_31",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xc4922d64a24675e16e1586e3e3aa56c06fabe907",
+      "label": "1.23 USDC",
+      "value": 1.23,
+      "txHash": "0x9cbb18e2a41bed0b6b34da4f78c08efe9e62f1ac5033cc0badc7e14919721767",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_32",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "label": "42.0 STG",
+      "value": 42,
+      "txHash": "0xd4b4510ddc944f57859fdaf3c5090ff34295f7bda636f5209ce2a22b9e2d0cec",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_33",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "label": "7.0 POL",
+      "value": 7,
+      "txHash": "0xd424e54941fe45db1e36337c2fd975264d09c0b8d4c8e34368bd0ece3bd0f162",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_34",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "label": "1.21 USDT",
+      "value": 1.21,
+      "txHash": "0xafdc562d871f6b48e6995e87c5232ee3b8637ed67da56bbe144217ffe94fb500",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_35",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "label": "1.21 USDT",
+      "value": 1.21,
+      "txHash": "0x1736b8f1088f675050c203e2f691124bb45f708b4b907de596c789f09917d47e",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_36",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "label": "0.00134 ETH",
+      "value": 0.00134,
+      "txHash": "0x7a008d914a2d241fcdb286db7210fb91c44c7e43ea146eb273e967046b301139",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_37",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "label": "0.00000000000000015 SLP",
+      "value": 1.5e-16,
+      "txHash": "0x06176e4d493a8c1f7c45b4d5957e4264cfca30c0343951f74e4ed93f64d98e68",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_38",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xee7ae85f2fe2239e27d9c1e23fffe168d63b4055",
+      "label": "1.23 USDC",
+      "value": 1.23,
+      "txHash": "0x84c93c4cdbd468da2c26fe0bbdfe403040c030129e2e25ac0c297e5deb043e49",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_39",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "label": "2.0 AXS",
+      "value": 2,
+      "txHash": "0x49f744e44fa25cc263047d7bac318c7c2385b1fdd410fef557605e8579fd6790",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_40",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "label": "0.00121 WETH",
+      "value": 0.00121,
+      "txHash": "0xfb36ab93ee09c8c38e26882158316026ab089407a0bb420e0df1dd1aed49144c",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_41",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "label": "42.0 STG",
+      "value": 42,
+      "txHash": "0xce346971394e2f089f10b62e316831bac46b70d49b67fe443d5265cf608050e2",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_42",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xee7ae85f2fe2239e27d9c1e23fffe168d63b4055",
+      "label": "1.23 USDC",
+      "value": 1.23,
+      "txHash": "0xf2581e99b56eff2e681525a9d86bbae67c8e5640738c69cd92daf6402fca3c69",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_43",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "label": "1.21 USDT",
+      "value": 1.21,
+      "txHash": "0xe53254c6c65d8f84181aa9c1b0bd187ae98f45f1c25b93f93da11337aa5b1acd",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_44",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "label": "0.00134 ETH",
+      "value": 0.00134,
+      "txHash": "0xd683a7129e7786081ab3422b6ebad194aa79e650b810230d322101dfeb05f2a3",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_45",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xee7ae85f2fe2239e27d9c1e23fffe168d63b4055",
+      "label": "1.23 USDC",
+      "value": 1.23,
+      "txHash": "0x17fefd5b6ab51b92f0c88e95a4be79b8f40b9755ba35600f203d69f94341da94",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_46",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xee7ae85f2fe2239e27d9c1e23fffe168d63b4055",
+      "label": "1.23 USDC",
+      "value": 1.23,
+      "txHash": "0xc781c55a217f12573d2ed1feb6a851e9b98baea86f72177c85beb58671bc223f",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_47",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "label": "300.0 DATA",
+      "value": 300,
+      "txHash": "0x0a69c5dd5d8dd249a9b1f4a58aef6ffdf189d1cd9eaeee086bfc31b570037856",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_48",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "label": "8.77 DAI",
+      "value": 8.77,
+      "txHash": "0x844baf524e0f0be5dccfb0405bf93c9f32e772bcaa7ab381121093cfd9c7d373",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_49",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "label": "10.0 GRT",
+      "value": 10,
+      "txHash": "0x654b03c5b34e55ec485a8179e511801acbf0fbaa33efa7e156b7ae539975ad9e",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_50",
+      "source": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "target": "0xee7ae85f2fe2239e27d9c1e23fffe168d63b4055",
+      "label": "1.45 USDC",
+      "value": 1.45,
+      "txHash": "0x6a2a055c6a91e3e76900b04944f0f208475297ba4348cd2ea47accf0682976ff",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_51",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x5495679cfac0b55a03b5f75419c9442851337c9b",
+      "label": "25189.4 SUPER",
+      "value": 25189.4,
+      "txHash": "0xcbd74fa20b2500dc07d0d29b3b8ab826323d40a6772ffa3ed2feca081401ae0d",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_52",
+      "source": "0x5495679cfac0b55a03b5f75419c9442851337c9b",
+      "target": "0x8d5cc77e6d135fd0700986e9d5b02ba538f582e6",
+      "label": "27198.87 BARD",
+      "value": 27198.87,
+      "txHash": "0xaaf69d7616d363bf7d5ce88fd21ff9e233acd194fb06c656de44f2f2a77a53ff",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_53",
+      "source": "0x5495679cfac0b55a03b5f75419c9442851337c9b",
+      "target": "0xc4629579f98d0fcae1a21e36f6a29b668a56c95e",
+      "label": "134414.79999999 BIO",
+      "value": 134414.79999999,
+      "txHash": "0x6a6625a93a013be0e6f666ed69eebb073dbe68463a6eb30b529e6c7240c5f6f4",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_54",
+      "source": "0x5495679cfac0b55a03b5f75419c9442851337c9b",
+      "target": "0xa71b216d962a6c3feb76f848ca9dd8a5cfdf6cee",
+      "label": "19524.2 ENSO",
+      "value": 19524.2,
+      "txHash": "0x177e768523d75a70af1cf35b15b95f19b96cb41763d350720393748b600da1bb",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_55",
+      "source": "0x5495679cfac0b55a03b5f75419c9442851337c9b",
+      "target": "0x1859b50f0175b2147ce310859a2308e007b5c121",
+      "label": "199987.0 KERNEL",
+      "value": 199987,
+      "txHash": "0x6218fea9c105c6cb4932b644730cb80a8b6c4e645a0123a3cb9ebcad5ae47a47",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_56",
+      "source": "0x5495679cfac0b55a03b5f75419c9442851337c9b",
+      "target": "0x662fd0af0901fcea0a93d1c882c99acfb59f8bef",
+      "label": "25189.4 SUPER",
+      "value": 25189.4,
+      "txHash": "0x914c08468979c37992692d9ea0064c6bd9f07a4076ce98b5b76530ad2047806c",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_57",
+      "source": "0x5495679cfac0b55a03b5f75419c9442851337c9b",
+      "target": "0x25d171e9c5d3478bb4ae32eda03e33d6b92f590e",
+      "label": "21342.8228266 LA",
+      "value": 21342.8228266,
+      "txHash": "0xff4a27a61026764e0dec005029cbd57e62d3909e4c07d61756a9e60957b06dfe",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_58",
+      "source": "0x5495679cfac0b55a03b5f75419c9442851337c9b",
+      "target": "0x08e0261212d660c95037fce8e53dec7cb1e97088",
+      "label": "970.512 COMP",
+      "value": 970.512,
+      "txHash": "0xef531870a3c0a039366d9126a2056705db7f31c912ae65d1ef5d7091439683a2",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_59",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "label": "42.0 STG",
+      "value": 42,
+      "txHash": "0x0ec95ddfd308ca2adc2c8ef798b976f153981b7fea7e9639436a56b0b3a05e3b",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_60",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xeb6e38f96f6db85f736dcc652a55c045d1a0b9f9",
+      "label": "4.0 USDe",
+      "value": 4,
+      "txHash": "0x4d5e590b81bebae12607f14524ce616af9cd4e231a4677a0871cec5380446e76",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_61",
+      "source": "0xeb6e38f96f6db85f736dcc652a55c045d1a0b9f9",
+      "target": "0x4865d4bcf4ab92e1c9ba5011560e7d4c36f54106",
+      "label": "4.0 USDe",
+      "value": 4,
+      "txHash": "0x21fc6907777ee25f44bc31a8922386b1a7da024b0056f56888ee3d85fb66ddd2",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_62",
+      "source": "0xeb6e38f96f6db85f736dcc652a55c045d1a0b9f9",
+      "target": "0x4865d4bcf4ab92e1c9ba5011560e7d4c36f54106",
+      "label": "175169.83302516 USDe",
+      "value": 175169.83302516,
+      "txHash": "0x0d911e8828dd24de479bc161a9def828edddfbfc9f901e258dd69cd4819caff8",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_63",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x926cc240713e058dff76b5fb53147146c71a65e2",
+      "label": "236.408659 USDT",
+      "value": 236.408659,
+      "txHash": "0x1deb59f5f6cc3bdbab2f261298d2a3d95292883eac93cd5358cd59172661f536",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_64",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x68a8e17d2c6d0ca593d4bd768a42f13d7a07ab6f",
+      "label": "364.793371 USDT",
+      "value": 364.793371,
+      "txHash": "0x287d2e1a308f634f522a568b2a179ab1569e7cedb9b3710594f17c134fe0abbe",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_65",
+      "source": "0x68a8e17d2c6d0ca593d4bd768a42f13d7a07ab6f",
+      "target": "0xa26148ae51fa8e787df319c04137602cc018b521",
+      "label": "364.793371 USDT",
+      "value": 364.793371,
+      "txHash": "0x00664c75676b30da52347ff6602dc4b7789d05a3bed0e13ba90f44d8fdd93a83",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_66",
+      "source": "0x68a8e17d2c6d0ca593d4bd768a42f13d7a07ab6f",
+      "target": "0xa26148ae51fa8e787df319c04137602cc018b521",
+      "label": "608.667771 USDT",
+      "value": 608.667771,
+      "txHash": "0xf4a9d2b3cdb2f93735adb242f610daa0ab64515f3f2d986e64e4cb8273ac68f7",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_67",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "label": "10.0 GRT",
+      "value": 10,
+      "txHash": "0xa014dd97a84da51e62df01be1d0704527b09c2200301672c31e5110039aefb2e",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_68",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x5495679cfac0b55a03b5f75419c9442851337c9b",
+      "label": "21342.8228266 LA",
+      "value": 21342.8228266,
+      "txHash": "0x8fd6e8f2a5d72417351cdcdb26885ee9612aa57deb01c492154d93124422ba17",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_69",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x888a611d3dfd117e5d9e56ed0fca94047d60d944",
+      "label": "0.01978 ETH",
+      "value": 0.01978,
+      "txHash": "0x9827d51677c59101a7375051e63d69e7cb4bd778e3d41527e7bd1586ee9889e2",
+      "type": "native",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_70",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "label": "0.07423733 ETH",
+      "value": 0.07423733,
+      "txHash": "0x3fabd4d8a201a35a45bd805f7cd1369da713a7b4bb0efba3dd75110e3e5ed211",
+      "type": "native",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_71",
+      "source": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "target": "0xd87e649882806aeaa30e758828268d1858bb7233",
+      "label": "0.074215513848944 ETH",
+      "value": 0.074215513848944,
+      "txHash": "0xd4d046e9842d9ebd654c202daa280ecafb22749c4b021375bf3306097bd598f0",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_72",
+      "source": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "target": "0xd87e649882806aeaa30e758828268d1858bb7233",
+      "label": "0.037027581449779 ETH",
+      "value": 0.037027581449779,
+      "txHash": "0x9a26b17c65cfe62757391cb739d40b64b173d4ed4bd57fe7aac32e39dc62bb66",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_73",
+      "source": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "target": "0xd87e649882806aeaa30e758828268d1858bb7233",
+      "label": "0.037068853403134 ETH",
+      "value": 0.037068853403134,
+      "txHash": "0x2a79c3c36697717c16f63c6f2ad773ca94e872854b42e39dad6c2bfcbcf0a23c",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_74",
+      "source": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "target": "0xd87e649882806aeaa30e758828268d1858bb7233",
+      "label": "0.01 ETH",
+      "value": 0.01,
+      "txHash": "0x2f3a85b09fff04c1fa18ebe04e54ba12208443c0e14742e4f15cc3b23d69e6c3",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_75",
+      "source": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "target": "0xd87e649882806aeaa30e758828268d1858bb7233",
+      "label": "0.01 ETH",
+      "value": 0.01,
+      "txHash": "0x422a5844805f3ea37c6ee2d773cba0dbd0162966efb68efe5dae71604249af8c",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_76",
+      "source": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "target": "0xd87e649882806aeaa30e758828268d1858bb7233",
+      "label": "0.044642218593289415 ETH",
+      "value": 0.044642218593289415,
+      "txHash": "0x0ff535a0137bcfe56971f1412cbd72b2a3049e90e1b834b89c47bced60b4bba8",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_77",
+      "source": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "target": "0xd87e649882806aeaa30e758828268d1858bb7233",
+      "label": "0.037030013515548 ETH",
+      "value": 0.037030013515548,
+      "txHash": "0xacd2fd9da3e53f57343c15eef53741ed92929153cafd261ceff2ccb739af0136",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_78",
+      "source": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "target": "0x1a9926cf6ed213235e59b9cc23c10746bdce7bd6",
+      "label": "0.037127686997436 ETH",
+      "value": 0.037127686997436,
+      "txHash": "0xf74af033e741fe7dcfc8e6068cd331a28091d6a635a46091c94cd3ea0e203cc2",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_79",
+      "source": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "target": "0xd87e649882806aeaa30e758828268d1858bb7233",
+      "label": "0.036615734488356 ETH",
+      "value": 0.036615734488356,
+      "txHash": "0x2a525d3f1d4f45f1b63a6455eb87daf088dcaba33d14b9d4c425fdbd1f7bb530",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_80",
+      "source": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "target": "0xd87e649882806aeaa30e758828268d1858bb7233",
+      "label": "0.01 ETH",
+      "value": 0.01,
+      "txHash": "0x33752486175ae25937aed9283d814693c0f65143a8963a8cbd88819e7b053076",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_81",
+      "source": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "target": "0xd87e649882806aeaa30e758828268d1858bb7233",
+      "label": "0.01 ETH",
+      "value": 0.01,
+      "txHash": "0x22053158877b307f5ba7df7071e46aedfe8d337c1b145d12f5513493fa34c29c",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_82",
+      "source": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "target": "0xd87e649882806aeaa30e758828268d1858bb7233",
+      "label": "0.011 ETH",
+      "value": 0.011,
+      "txHash": "0xd0bddc0d5e9562aab63eabfc1bc804a386051fd077c292230471d63432ddd546",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_83",
+      "source": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "target": "0xd87e649882806aeaa30e758828268d1858bb7233",
+      "label": "0.038 ETH",
+      "value": 0.038,
+      "txHash": "0x3a1489f52a241812222ef99953649a7b23291fe5e08e2d93d0bae0226fe438fe",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_84",
+      "source": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "target": "0xd87e649882806aeaa30e758828268d1858bb7233",
+      "label": "0.044333835364314732 ETH",
+      "value": 0.04433383536431473,
+      "txHash": "0x136a991a996218f805d1278b22124153c08a8ec1614acad36f5e65b7a6b8a2e6",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_85",
+      "source": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "target": "0xd87e649882806aeaa30e758828268d1858bb7233",
+      "label": "0.037508266770034 ETH",
+      "value": 0.037508266770034,
+      "txHash": "0xafcdcc9e4425edfdd28bed7a4252f889c407fe9a775becacd7345a765ae1051b",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_86",
+      "source": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "target": "0xd87e649882806aeaa30e758828268d1858bb7233",
+      "label": "0.03702147138084 ETH",
+      "value": 0.03702147138084,
+      "txHash": "0xc6d32092964a66f5dc9c93af4de032674ae6eb81620d317f1dfde824f2f59f69",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_87",
+      "source": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "target": "0xd87e649882806aeaa30e758828268d1858bb7233",
+      "label": "0.037417800268444 ETH",
+      "value": 0.037417800268444,
+      "txHash": "0x3a4a162929bf92b830293286b782bbaac4297e81d81ad198c54d5b437f6857c9",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_88",
+      "source": "0xe368696b6514bd4001858e8a2b7fc364af18c924",
+      "target": "0xd87e649882806aeaa30e758828268d1858bb7233",
+      "label": "0.03618989840574 ETH",
+      "value": 0.03618989840574,
+      "txHash": "0x32de62030d5e3c2dc68e9a3dcd4f7a94d834efc5e2c8baae63d831d022baa85b",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_89",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "label": "1.21 USDT",
+      "value": 1.21,
+      "txHash": "0x90fa57db94bb3164da39efa4b0e4e4797d0fdb0abdfa48c0a5b3025fa4f59c7f",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_90",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "label": "42.0 STG",
+      "value": 42,
+      "txHash": "0x90f31d267730a039ef12aed124c2136f1c06860c47e54a49947573bcf7677af6",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_91",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "label": "7.0 MATIC",
+      "value": 7,
+      "txHash": "0x6050238325f7bee1dbfc61e9060b20d010866fb5693b41ef7553adf423d00c68",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_92",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xe69f81b825d7dc31ee9becef4dbeab5cf30e3abb",
+      "label": "50.0 POL",
+      "value": 50,
+      "txHash": "0xed5e85de03368d16175fe2650f31283114948a43aa86e3c88724803b3cd5ee51",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_93",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x700bc8bdbd0b0b5210456c5f051c7188566ec4e2",
+      "label": "9.3674 USDT",
+      "value": 9.3674,
+      "txHash": "0x14e2bd2fe3a60fcba4bec7efac7404d35f7b8bd2defca8cdda45262828962def",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_94",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x3df6ae3312e94f7742b2e6a7ec9eddb031805232",
+      "label": "0.19000012 ETH",
+      "value": 0.19000012,
+      "txHash": "0x84d7f418c7f17f498eefc265fbd3b873cd49d838779f04d1cdebbb2db909f0df",
+      "type": "native",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_95",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xaa64889b6170180b7357bd8600d892efe7ce36c7",
+      "label": "299.0 USDT",
+      "value": 299,
+      "txHash": "0x977f0736c4176dbe49178595baec7e526fa5f10dc5437a8ecdba9db00094e1b0",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_96",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xe1816bb816cc35367a1054118da8085319d3eb3f",
+      "label": "0.00004953 BBTC",
+      "value": 0.00004953,
+      "txHash": "0xaddf96efae4ca3d4fc54cec5ad1673790c895ccbd9dccc4323882d07d21e887b",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_97",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x271f95877f0de03e3718e7e440524d30f4cce47c",
+      "label": "342363.1664 NOM",
+      "value": 342363.1664,
+      "txHash": "0x436a07e41a204fbc3d032c325bfd55a0bfbe2fced9ee7c48718879fb560ae351",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_98",
+      "source": "0x271f95877f0de03e3718e7e440524d30f4cce47c",
+      "target": "0xf89d7b9c864f589bbf53a82105107622b35eaa40",
+      "label": "342363.1664 NOM",
+      "value": 342363.1664,
+      "txHash": "0xace28104e8962d1811c2663e5837a3595db023a68fbd15795f44011b9330f636",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_99",
+      "source": "0x271f95877f0de03e3718e7e440524d30f4cce47c",
+      "target": "0xf89d7b9c864f589bbf53a82105107622b35eaa40",
+      "label": "575132.67499173 NOM",
+      "value": 575132.67499173,
+      "txHash": "0x7020b756664922c1d5796451d21e4d1e45bef0495e965c66fb698850938c7a7d",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_100",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xa1923497ed1fbafbb1f3492692fb7c400b23f6e5",
+      "label": "238.45 USDT",
+      "value": 238.45,
+      "txHash": "0xb2e9e4492731bb021a8d3733a7e6c50be3e9dc26ab3436276c672d3b1e519da2",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_101",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xd84de967602001ffaa7ba684ad725198f4a1fd40",
+      "label": "0.44208641 ETH",
+      "value": 0.44208641,
+      "txHash": "0x5e0240eb18e1d5093ce92ceacc1b51b2d231cee94996440a0d103206e018faa3",
+      "type": "native",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_102",
+      "source": "0xd84de967602001ffaa7ba684ad725198f4a1fd40",
+      "target": "0xece7319a7e5318b2e99361492be6866640e75b6d",
+      "label": "0.442086 ETH",
+      "value": 0.442086,
+      "txHash": "0x6b6ca73d0f7d7d2faf03aaf763993de6a616584931d98cd7bdc814c94985d451",
+      "type": "internal",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_103",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x78649b8554c9cf030e9d809d0ae9099f0f7532ac",
+      "label": "0.00743645 ETH",
+      "value": 0.00743645,
+      "txHash": "0x38461f555187e96c5f7df76245e616d8f3eaecc6014f4d88824c56fed00b9b50",
+      "type": "native",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_104",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "label": "108000.12 AXL",
+      "value": 108000.12,
+      "txHash": "0x77a5247a92e50e808434ad1386671e3cfcb80686481a5fe967053baccb125c4d",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_105",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0x6522b7f9d481eceb96557f44753a4b893f837e90",
+      "label": "2408003.41 CPOOL",
+      "value": 2408003.41,
+      "txHash": "0x080db118f0eb9eac93cc346ec449149a64a4930a06e6ecf378d5af5660c491b5",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_106",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xa1abfa21f80ecf401bd41365adbb6fef6fefdf09",
+      "label": "0.047957546129163 ETH",
+      "value": 0.047957546129163,
+      "txHash": "0x87a6b435eba63f708e8e1fcddbdd3658d1a425aba5b2951a86ff1655bdfd7dc5",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_107",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xf42aac93ab142090db9fdc0bc86aab73cb36f173",
+      "label": "192800.23 AXL",
+      "value": 192800.23,
+      "txHash": "0x92e36b55e7285fa6c3f4219c7305afce3f392f9bf345760eb2664ca073e15c4a",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_108",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xa1abfa21f80ecf401bd41365adbb6fef6fefdf09",
+      "label": "0.047883974840555736 ETH",
+      "value": 0.04788397484055574,
+      "txHash": "0x9ab6f47551d50b817f464d88f47d5c9988d86823fada9b97f82684cab9c8f35c",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_109",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0x6522b7f9d481eceb96557f44753a4b893f837e90",
+      "label": "453000.3 CPOOL",
+      "value": 453000.3,
+      "txHash": "0x325b6e7a1c818d2bd60131e7d9349671d1a0858042c5bb4fa165499f3f388b47",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_110",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xf42aac93ab142090db9fdc0bc86aab73cb36f173",
+      "label": "427007.4 LRC",
+      "value": 427007.4,
+      "txHash": "0x3d91e7bc3694ece3f8b2c3ebc582487f6193e68813878ab313b9d506f187ac9e",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_111",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xa1abfa21f80ecf401bd41365adbb6fef6fefdf09",
+      "label": "0.065752760830395965 ETH",
+      "value": 0.06575276083039597,
+      "txHash": "0xf64b08c7020a497c89103381ef2fb10395275cef56820d41780cd34aeb20fc2b",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_112",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0x6522b7f9d481eceb96557f44753a4b893f837e90",
+      "label": "993001.65 CPOOL",
+      "value": 993001.65,
+      "txHash": "0xa5c0c5b014f318fa5f5a8a476f3bf6d884b6a0fa2bc8e6b61fe936a556894565",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_113",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0x6522b7f9d481eceb96557f44753a4b893f837e90",
+      "label": "199000.72 CPOOL",
+      "value": 199000.72,
+      "txHash": "0x0ee39a7522269ae62978594af0182d77d28e885972c144331d868e545d1da277",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_114",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0x6522b7f9d481eceb96557f44753a4b893f837e90",
+      "label": "229000.83 CPOOL",
+      "value": 229000.83,
+      "txHash": "0x272895d792473866e38de2995a6b7becfde3e93e0bd52f0964474b3ba2d2733d",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_115",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0x6522b7f9d481eceb96557f44753a4b893f837e90",
+      "label": "227000.27 CPOOL",
+      "value": 227000.27,
+      "txHash": "0xe25f221929e662f3752bd3275b63af524d1c1ded515b8f5bcafe2d9c897dd612",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_116",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0x6522b7f9d481eceb96557f44753a4b893f837e90",
+      "label": "227000.4 CPOOL",
+      "value": 227000.4,
+      "txHash": "0xab2c2506347c57b68b4d3be3f77fa67b408c68428659b39ca9a5a0b208a80fa7",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_117",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xf42aac93ab142090db9fdc0bc86aab73cb36f173",
+      "label": "554017.1 LRC",
+      "value": 554017.1,
+      "txHash": "0xf6bf041ebc74c921d7ce7162914eab7803cb89532f019b61d2a6c91186c09a81",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_118",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xa1abfa21f80ecf401bd41365adbb6fef6fefdf09",
+      "label": "0.065517938088415083 ETH",
+      "value": 0.06551793808841508,
+      "txHash": "0x89838bfe18a8beadf19ac57d734b5cbe4ceab3b46a55ccf04f9bcf66766a3313",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_119",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0x6522b7f9d481eceb96557f44753a4b893f837e90",
+      "label": "343000.92 CPOOL",
+      "value": 343000.92,
+      "txHash": "0x1e396f4a314ebd22c1dabcc71417b49f6dbd6d9b18c3fd94bfa32c65b277cc2b",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_120",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xa1abfa21f80ecf401bd41365adbb6fef6fefdf09",
+      "label": "0.065883584900314659 ETH",
+      "value": 0.06588358490031467,
+      "txHash": "0x3f11f60cf0e8f88a15e494f296f2ef32a342d5b1b90e6a76a1d7ffc592e7f248",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_121",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xa31231e727ca53ff95f0d00a06c645110c4ab647",
+      "label": "476000.4 ALT",
+      "value": 476000.4,
+      "txHash": "0x37a99d2b1207a9116c716a1216e4c686a572a27c67e5bcad2d2d7f64e10e2915",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_122",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xa1abfa21f80ecf401bd41365adbb6fef6fefdf09",
+      "label": "0.029957207445279 ETH",
+      "value": 0.029957207445279,
+      "txHash": "0x8204f540288e03c51c4486a91fe7b53fe0a8296b6eccfff7f28b984a8bfa8261",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_123",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0x187c9fbf5bd0f266883c03f320260c407c7b4100",
+      "label": "32500.09 FET",
+      "value": 32500.09,
+      "txHash": "0x4030174fbb28619282ad2ac0c9faff2238a378b577e2c1c18f8cd020eb39065c",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_124",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0x6522b7f9d481eceb96557f44753a4b893f837e90",
+      "label": "2432.0291 COMP",
+      "value": 2432.0291,
+      "txHash": "0xb5b4f0986806eea1b1117fe3dbfef4d7a9d5a740020e629ab5d95fa14109c89e",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_125",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0x6522b7f9d481eceb96557f44753a4b893f837e90",
+      "label": "310000.26 CPOOL",
+      "value": 310000.26,
+      "txHash": "0xe7fac746491b93aa33e894563f94928f9bf7062bff9df14192b5dae092e4192e",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_126",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xa1abfa21f80ecf401bd41365adbb6fef6fefdf09",
+      "label": "0.04775437339118927 ETH",
+      "value": 0.04775437339118927,
+      "txHash": "0x4079a0bc6ba37b2887af1a2f363d243a652d650d09988bb000652347fcbec803",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_127",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xf42aac93ab142090db9fdc0bc86aab73cb36f173",
+      "label": "156001.4 LRC",
+      "value": 156001.4,
+      "txHash": "0x24ec63166fa961cac05d2ce358bcee2b5f748eabc4bf2e384f071475b6aa99aa",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_128",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xa1abfa21f80ecf401bd41365adbb6fef6fefdf09",
+      "label": "0.065821733864138448 ETH",
+      "value": 0.06582173386413845,
+      "txHash": "0xba58ea243a5ed4ff35658e0affdc9ff58711e0a14d6ef86cbbe9d77d4ce0145d",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_129",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xf42aac93ab142090db9fdc0bc86aab73cb36f173",
+      "label": "154006.3 LRC",
+      "value": 154006.3,
+      "txHash": "0xcd3b0aa21aa0cecffe441b3252487c589a1b7df3729877ae87fa1a88579eac82",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_130",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0x6522b7f9d481eceb96557f44753a4b893f837e90",
+      "label": "357000.7 CPOOL",
+      "value": 357000.7,
+      "txHash": "0x57a0a22f1984fad8a1c06bf7f9813c293bab1b781426af387facb240cbe432f7",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_131",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xa1abfa21f80ecf401bd41365adbb6fef6fefdf09",
+      "label": "0.029896415645130375 ETH",
+      "value": 0.029896415645130375,
+      "txHash": "0x8d9e86eb1b7e00002edb7013d1182db1b44d3ab23a3ad2b7d0b94816d4d04eaa",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_132",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0x6522b7f9d481eceb96557f44753a4b893f837e90",
+      "label": "1528.0202 COMP",
+      "value": 1528.0202,
+      "txHash": "0xd19080fa1866d03c684eaa62a471090188016c3ca28e23c754d4701ef5c07197",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_133",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xa1abfa21f80ecf401bd41365adbb6fef6fefdf09",
+      "label": "0.065811341241664892 ETH",
+      "value": 0.06581134124166489,
+      "txHash": "0x320c856393120e6b729024fc7577b49b8a6f8529af55e4563eb69c623c935e09",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_134",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0x6522b7f9d481eceb96557f44753a4b893f837e90",
+      "label": "436000.2 CPOOL",
+      "value": 436000.2,
+      "txHash": "0x95ae7a7dac72c25d81349f8f1006435a953b6e578671327bb0cdd9eb2caf7650",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_135",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xf89d7b9c864f589bbf53a82105107622b35eaa40",
+      "label": "232000.52 BOBA",
+      "value": 232000.52,
+      "txHash": "0x967e83c4dd6edfe874cf4b2605f635fa100bb7f0391ec801ecb09881ae6c1e80",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_136",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0x187c9fbf5bd0f266883c03f320260c407c7b4100",
+      "label": "235000.0 MOCA",
+      "value": 235000,
+      "txHash": "0x22c72c83384c9c6b3726097df28f69fc1c216a9acd56954649bb7a09098ffb88",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_137",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xf42aac93ab142090db9fdc0bc86aab73cb36f173",
+      "label": "143000.7 LRC",
+      "value": 143000.7,
+      "txHash": "0x5ccb1c5e824216bd19dfb61bae06b5652d32d2a3f9ca6f4e91558dcf693f2675",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_138",
+      "source": "0xeb61e99629b891a3cb4bbfa655efbd714de7f855",
+      "target": "0xa1abfa21f80ecf401bd41365adbb6fef6fefdf09",
+      "label": "0.065692041198085848 ETH",
+      "value": 0.06569204119808585,
+      "txHash": "0xd4aa58c962a132d3d810ecb31efc062b6682c9ae693590cf1ea39cc123a89fd2",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_139",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x5b6aa981a254275918733ea5d19eaa0f7c5b8dc2",
+      "label": "59.0 USDT",
+      "value": 59,
+      "txHash": "0xf78f5e914366373042ec618478bf6850f1568857c9d5a337e3e3a1fc16d9228b",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_140",
+      "source": "0x5b6aa981a254275918733ea5d19eaa0f7c5b8dc2",
+      "target": "0xb70f98e53bee56a2e18a15bcd826579f495076f0",
+      "label": "343.104135 USDT",
+      "value": 343.104135,
+      "txHash": "0x5734eafea049321d0fbf01578dfc8ece90dbfe0bb03af2827c309e8ca72c7e44",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_141",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x15f46551f5d736c9b8861c1d1358e29183f7a6c7",
+      "label": "162734.11485149 MOVE",
+      "value": 162734.11485149,
+      "txHash": "0xb884fd207f933a61bec56a65c1c53d5afdd0d3f64a4fd8dc2efc45ea09dd06d7",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_142",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x48f21dd2c2bc1578ed6fa87cf0b901aebd705d89",
+      "label": "10.0 USDT",
+      "value": 10,
+      "txHash": "0x6a74160958d6163d9f6646fbf12a2f1105da582e3a541cbfb446a75103b6581f",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_143",
+      "source": "0x48f21dd2c2bc1578ed6fa87cf0b901aebd705d89",
+      "target": "0x7e09b3158408226a7d767cab65a9a505e32baea6",
+      "label": "10.0 USDT",
+      "value": 10,
+      "txHash": "0xef45974726e1e0de450ce5821c767496f39f0618938b99248e0e23d87759013e",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_144",
+      "source": "0x48f21dd2c2bc1578ed6fa87cf0b901aebd705d89",
+      "target": "0x7e09b3158408226a7d767cab65a9a505e32baea6",
+      "label": "0.010980901936996935 ETH",
+      "value": 0.010980901936996934,
+      "txHash": "0x6c574e7090a7ccdea3f5ead3dbdd3802c5db5d6c7ddef300a65d81b01e21757b",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_145",
+      "source": "0x48f21dd2c2bc1578ed6fa87cf0b901aebd705d89",
+      "target": "0x7e09cece3a1523c0cca8cf0436f16ad52cb7aea6",
+      "label": "10.0 ꓴꓢꓓꓔ",
+      "value": 10,
+      "txHash": "0x393e3ebaa309b863fa0d7753d6eb167f4c150392df21349aaf6d1fc85cf990e7",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_146",
+      "source": "0x48f21dd2c2bc1578ed6fa87cf0b901aebd705d89",
+      "target": "0x7e0da5b8473e3a41dd00ffe6deb565e2752baea6",
+      "label": "10.0 USDT",
+      "value": 10,
+      "txHash": "0x4ccfcb6529ea9c924a364aa14e78ae3b65ab343d4912e8d1b1d4fd0bc0d90309",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_147",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xd17b5e0794274ee5d1d38fde4cd4d008a7cdc9b0",
+      "label": "0.003585 ETH",
+      "value": 0.003585,
+      "txHash": "0x98763c61ccfa88d8940a23b347561582827044c0986feb60ecdd8077c3394083",
+      "type": "native",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_148",
+      "source": "0xd17b5e0794274ee5d1d38fde4cd4d008a7cdc9b0",
+      "target": "0x2e7f2740a839231c41cfde0d531828df312bea04",
+      "label": "0.003542145518211 ETH",
+      "value": 0.003542145518211,
+      "txHash": "0xe29ccebfe74d9c5763ae5bf6b83fa463f66f69952de9dedf57156ea03daf1f5e",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_149",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xd862cdcfeb856c32b3c4f7563f4811d8ddfd42e2",
+      "label": "4758.03 LSK",
+      "value": 4758.03,
+      "txHash": "0xdeac88343977629ec84121890d8fb756cfc313f39dde4a39708025c58f6fe827",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_150",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x2ae6757d9b9118b7e369b796a925cadf2cc4b38b",
+      "label": "149.0 USDT",
+      "value": 149,
+      "txHash": "0x9268a8468e62cccd81ae844d65df7735b3c6e97fc95ada0810558dbdd7a49cf2",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_151",
+      "source": "0x2ae6757d9b9118b7e369b796a925cadf2cc4b38b",
+      "target": "0xa9d1e08c7793af67e9d92fe308d5697fb81d3e43",
+      "label": "158.0 USDT",
+      "value": 158,
+      "txHash": "0xd52e48c2f367448d9b503e3291f77fea2661da4768f431085ddcdffd5a1bc824",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_152",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x9a5a29aa26c91b6e2243b7b242f76f9355d74c8f",
+      "label": "0.02181616 ETH",
+      "value": 0.02181616,
+      "txHash": "0x507b14fdc74b38736856a0fdd1ae4f484d0167bd144cded816f40f1d3ff71dad",
+      "type": "native",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_153",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xa9411c756a5b6ce181a90af40c722f5557694eb0",
+      "label": "13.02 USDT",
+      "value": 13.02,
+      "txHash": "0x871fad21af91479001e9cc3a4d3ce2fdf1a64a24e1f08ef69923873f5c6ce87e",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_154",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xfc681b05257ed47345711feea00f4fd793bc0ae6",
+      "label": "0.0019712 ETH",
+      "value": 0.0019712,
+      "txHash": "0xa24e83b112a8698b3e62f0fff834fcf4adf26a0fd0b8d45896f6a404bcb8cb86",
+      "type": "native",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_155",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xa3efbc8a7ab10cf67a1b4fb817d628e8fa7c6bca",
+      "label": "26.930427 USDT",
+      "value": 26.930427,
+      "txHash": "0x12676d4ee573b7c1d0840a783641a952c1c7ab3dc837f58eecbaec20f6fa631b",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_156",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x4c9af439b1a6761b8e549d8d226a468a6b2803a8",
+      "label": "2033.38 USDT",
+      "value": 2033.38,
+      "txHash": "0x1f9515404ed161b1fa31526621c0239911500a2708c0b9e7c49e363987d32a97",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_157",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x200ef54fe08fa46aef946fc373573238caebe4d5",
+      "label": "84.29 USDT",
+      "value": 84.29,
+      "txHash": "0x7623635ebfa8e8aa6cd578968095695d928c9a873a412084fbbd8954dd0ae26e",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_158",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xe40ed08266ffe7b48b3bae2e59135cf63be4163d",
+      "label": "8996.97 LA",
+      "value": 8996.97,
+      "txHash": "0xbd2e1faf42dd4d8627bdf3ede42fb492d0b195e97c40b9e78425fb2d90519d5d",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_159",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xe155991ccdb837bfe25c256dbe4fff27e76e5263",
+      "label": "0.03371497 ETH",
+      "value": 0.03371497,
+      "txHash": "0x10f5083249676ba25d768e18b2c0fc8dcb55d555779c08d021958f5c8e74bdde",
+      "type": "native",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_160",
+      "source": "0xe155991ccdb837bfe25c256dbe4fff27e76e5263",
+      "target": "0xfd0237965e2d51353121d8685936fa9659ff6328",
+      "label": "0.03360997 ETH",
+      "value": 0.03360997,
+      "txHash": "0x261836d04559c682827887bc7d71a1e8dc5127925b69893f632ca892a9d6472e",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_161",
+      "source": "0xe155991ccdb837bfe25c256dbe4fff27e76e5263",
+      "target": "0xfd0237965e2d51353121d8685936fa9659ff6328",
+      "label": "0.0374845 ETH",
+      "value": 0.0374845,
+      "txHash": "0x1d3b54608538a57ca34d1bdafb88296f1d3d059d864503853fa8c26bd48e6322",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_162",
+      "source": "0xe155991ccdb837bfe25c256dbe4fff27e76e5263",
+      "target": "0xfd0237965e2d51353121d8685936fa9659ff6328",
+      "label": "0.04882128 ETH",
+      "value": 0.04882128,
+      "txHash": "0x7faf55d417fd160d36dd0317184c3762a7ddd0de24333f91c6a3811608ba299c",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_163",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x4c218629c66d5b3a440da78e70eaa15cc65a42bf",
+      "label": "6247082.0 TURBO",
+      "value": 6247082,
+      "txHash": "0x407b509006f82fdfb43c468ab406ce4451033847faf1e839a79858353bffe8fd",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_164",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x3b9c519c6fee1607542b71a1769d098049be400f",
+      "label": "0.0023 ETH",
+      "value": 0.0023,
+      "txHash": "0x1f06e3c5dbb5cf76d2fb98d4eeac2a80e7ee2070943ef62fa1a4c5ef1b2e7fa3",
+      "type": "native",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_165",
+      "source": "0x3b9c519c6fee1607542b71a1769d098049be400f",
+      "target": "0x217e42ceb2eae9ecb788fdf0e31c806c531760a3",
+      "label": "200.19 USDT",
+      "value": 200.19,
+      "txHash": "0xfd463a3704590af6c95145b5fa57faf822ece4058177b3a2c54f894cdc1ab4a2",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_166",
+      "source": "0x3b9c519c6fee1607542b71a1769d098049be400f",
+      "target": "0xc5d6a7b61d18afa11435a889557b068bb9f29930",
+      "label": "200.19 USDD",
+      "value": 200.19,
+      "txHash": "0xe855abc80c94f63087422ebaf89ea645c70afb07e181d25eae6ed3a53bfef1a9",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_167",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x26b5a3519002957b3b2bbe9bc25eeed8d9448a1c",
+      "label": "1095.04 ENA",
+      "value": 1095.04,
+      "txHash": "0x4c3add25afd3e4c5f4e71860296cff05c985f778b8527382dbabe486b4dbe325",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_168",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xb66dab3f09134091de75423f39546b7f019f92bb",
+      "label": "196.0 USDT",
+      "value": 196,
+      "txHash": "0x3f36b4d2d06cd379a43ea6f72a14e12d6fb6b475f749a03d020643fa59e522fc",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_169",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x68a8e17d2c6d0ca593d4bd768a42f13d7a07ab6f",
+      "label": "608.667771 USDT",
+      "value": 608.667771,
+      "txHash": "0xa991299dadc7265aa28b0102d9fd7e965b1fb18d4dd9307c0d7c6958def47a60",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_170",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xae9ed473f2212c6ace1063f317fe65eb8ae2a6fc",
+      "label": "0.0618 ETH",
+      "value": 0.0618,
+      "txHash": "0xacc17b9eeb8033eed68fc8aad24b3014b7bc8b0c74148a9fd643d563514181e7",
+      "type": "native",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_171",
+      "source": "0xae9ed473f2212c6ace1063f317fe65eb8ae2a6fc",
+      "target": "0xc73a02c63277fc12f28ae6d78bd7e1b6b425911b",
+      "label": "0.06 ETH",
+      "value": 0.06,
+      "txHash": "0x249f47c7f770ab21c1a9af431582000fd677d171f98e76b8b1c078f80a7de78c",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_172",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xf8f407b320966ea76fe393da78fa5d27a0d62654",
+      "label": "0.0029968 ETH",
+      "value": 0.0029968,
+      "txHash": "0x80b5ce81c223e4f58df7ebd2a5759b77f034eebb8495771894632cd1cd44b346",
+      "type": "native",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_173",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "label": "2049.79457105 LDO",
+      "value": 2049.79457105,
+      "txHash": "0x06c4f0e799b1980825ede3e5a206afdf12c472eb65db48fe3fa9e27217b0b372",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_174",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "2646410.69728742 GALA",
+      "value": 2646410.69728742,
+      "txHash": "0x558ef43c295ee2ca97336844971c2f713cf2e093e0de279e8438bf1ff81500b3",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_175",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "86463.61754431 CRV",
+      "value": 86463.61754431,
+      "txHash": "0x7d875c25191ab09f4cf64f43482a881b41d507e532b28b3d67cb8fb351fc41a3",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_176",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "23182.97165869 CRV",
+      "value": 23182.97165869,
+      "txHash": "0x0ff9cfb31e7e7ae6974bc2b4dc0b78262da9539570dc773b925b0c260f97e855",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_177",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "1480688.36819 GALA",
+      "value": 1480688.36819,
+      "txHash": "0x7bbb95db0e67624c0fb4cd007d3dad6c3142c19b69e2697da2b37ce34cce0100",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_178",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "1136729.45380543 GALA",
+      "value": 1136729.45380543,
+      "txHash": "0x8c6e01d6f034a861c67a85c6ee753795d5dbe7b006527f26a594491e65843b05",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_179",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "2050.46259598 LDO",
+      "value": 2050.46259598,
+      "txHash": "0x9cfd3f92edc2916bba9790a0b56926869114e7d5986af9abfa0f6a4f7c26cd28",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_180",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "2049.79457105 LDO",
+      "value": 2049.79457105,
+      "txHash": "0x9070c19ec4ac845f4b1601c8487144e9b6e36f6b785ebf6601e7104ee3da7319",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_181",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "2870.66360946 LDO",
+      "value": 2870.66360946,
+      "txHash": "0x3554ac2b0616bbf3dfd52ec4681768dc65f83f3280145a58dd8e6a51e722e519",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_182",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "162811.27670058 PROMPT",
+      "value": 162811.27670058,
+      "txHash": "0xf6d20570078cfb79c49189434c78ce7cebed2d82bb771a7cabdbfac690b0febd",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_183",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "2828.57803865 LDO",
+      "value": 2828.57803865,
+      "txHash": "0x9f264244ac5718d2a64f77c183d989eec1c7f10d7adc08cff7080be5fa1d608d",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_184",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "4758.03292574 LDO",
+      "value": 4758.03292574,
+      "txHash": "0x3bb883f7c542e0997c90139dfb955faab9b06da203b9105ac16f38413cbf1c69",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_185",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "113190.91250792 CRV",
+      "value": 113190.91250792,
+      "txHash": "0xcd303a889a526a450a84327f737c8dc817f4ff444e927f9d7078b774d4a80f64",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_186",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x59e0cda5922efba00a57794faf09bf6252d64126",
+      "label": "0.775724 AAVE",
+      "value": 0.775724,
+      "txHash": "0x3b2b752ea6e04235448a2d3472312d4e21f52f67a191a5e82e6191a843539870",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_187",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "4000.39120694 SAFE",
+      "value": 4000.39120694,
+      "txHash": "0xe72bdf8bc1adf59f78ef739f4bf7c69e90595aea0a4c4cbe060222be99366b9d",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_188",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "3865.13552981 IMX",
+      "value": 3865.13552981,
+      "txHash": "0x9e106dbe422476b4dafee79823633b6d5929c15066f82ca1d46a0b77f4d188a0",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_189",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x59e0cda5922efba00a57794faf09bf6252d64126",
+      "label": "4586.05305786 BAT",
+      "value": 4586.05305786,
+      "txHash": "0xf6fe3fc1a56d62b5db93448b44abcddebcec94058f182f493a00a46f42adb7eb",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_190",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x59e0cda5922efba00a57794faf09bf6252d64126",
+      "label": "10047.94552768 BAT",
+      "value": 10047.94552768,
+      "txHash": "0xf97a73e2a8346d3ea0e8091de3a51c3a422edc413303788a8ce39a7a3a19b5f7",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_191",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "8769.54363918 STG",
+      "value": 8769.54363918,
+      "txHash": "0xaf740d227c96052bba9416e4a3b383382f6e9b56a9a8d928c75d8c97bae95df1",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_192",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "14925.3088 CHZ",
+      "value": 14925.3088,
+      "txHash": "0x64ea88250aa38627092f69c1f2c46439b6c80bfe7b15de02c23c31bc32e4c116",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_193",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "7075.153605 APE",
+      "value": 7075.153605,
+      "txHash": "0xff1abb37e937e59533f9672f0698cec8618e2cca1d6cbe620974418b237cf2e6",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_194",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "7884.13360323 LQTY",
+      "value": 7884.13360323,
+      "txHash": "0x4e6294703331f9fc3b4881ed462f29b01b843aa0b598efffb3b782987076f1b8",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_195",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "97608.22008477 PROMPT",
+      "value": 97608.22008477,
+      "txHash": "0x83017e40ae222256ec6598791849cb802a58607f1e14d77e25f112f30742d75b",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_196",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "58833.10670532 PROMPT",
+      "value": 58833.10670532,
+      "txHash": "0xdc060b1e3b48c0df146fa207f211314f0c28e81dbab335c6ca14913ffc7f8f3f",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_197",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "56877.02344424 PROMPT",
+      "value": 56877.02344424,
+      "txHash": "0xc6b568acfda1650e71795e5c9a74c9eef12dd8a5c7fdc0e604f54cbc4298c4d9",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_198",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "59654.4469445 PROMPT",
+      "value": 59654.4469445,
+      "txHash": "0x9932e601dc73587da9cf847b1c1cbf3aec39cf9c11c588be94be8d94488e855e",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_199",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "3911.36244053 AXS",
+      "value": 3911.36244053,
+      "txHash": "0x95638e328fc40e94cdd5f0ba833db4d1a245657213fda8cfb58e7c166066e276",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_200",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "770.89968657 AXS",
+      "value": 770.89968657,
+      "txHash": "0xbe7833b5236454d0286901d60a99c2ca0eb75213e2494aee30cd2ca15c9ca4e9",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_201",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "55125.01138964 PROMPT",
+      "value": 55125.01138964,
+      "txHash": "0xef251aa9c9073e32898e42d4ae95c3c1127b47a3076a363910a4b85d7960adf2",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_202",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "7774.7736222 ENA",
+      "value": 7774.7736222,
+      "txHash": "0x84f7b3834954c8d25b0fb733e5afc46ccf1354bc533f825577199ce446dad8f5",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_203",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "53074.47272088 PROMPT",
+      "value": 53074.47272088,
+      "txHash": "0xe63f2f060046cca06bd261ec2a17c39281bd2e4d5d36575aed554f6fcac8c5e6",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_204",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "35054.56868388 CHZ",
+      "value": 35054.56868388,
+      "txHash": "0x25de236d0fe11bae422ccdfa59a0a1309128131768b59aa969aeb53641a21fd9",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_205",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "38946.21953082 KERNEL",
+      "value": 38946.21953082,
+      "txHash": "0x3a6cfc0c431aeb607de8a486d727da2a5a6c2e567dfa75a0f11261da296749f9",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_206",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "6626.27779301 KERNEL",
+      "value": 6626.27779301,
+      "txHash": "0x04d4e2bb3a813afd05b19489ad97b60e81d3c0d7e7e1af2e548ab49a7669f8b1",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_207",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "1774.8820233 ETHFI",
+      "value": 1774.8820233,
+      "txHash": "0x5549b9d5f69d811fae6027f8350db53813622538493a1384580b9f1c960252b1",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_208",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "4650.66128237 FXS",
+      "value": 4650.66128237,
+      "txHash": "0x5338f5f84fc5116cfad3ad5d80098ac5012eae8ba22bac15e2cac6bc29ca6cbd",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_209",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "50330.69541638 PROMPT",
+      "value": 50330.69541638,
+      "txHash": "0xd4c50961ee8863ca6f16968dfd9c4d6679c03dd9d587afaac2ed600e18a92ebc",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_210",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "4510.64260586 EIGEN",
+      "value": 4510.64260586,
+      "txHash": "0xbbe5dccdcd7e7d7ec45c052950d4cdb2c55f5d204a3968593dd1b8c8d7c95877",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_211",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "221.05758816 LPT",
+      "value": 221.05758816,
+      "txHash": "0x5d5541d1d5f0e7885c359e75367555ffa7d794dc124926c3d9db2b63ed7fbc25",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_212",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "332.272 LPT",
+      "value": 332.272,
+      "txHash": "0x8dafd8ce640769e142dccb65839b622f74a12a4ad3fafb4caee7805dfbdeb1c7",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_213",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "45574.29754602 KERNEL",
+      "value": 45574.29754602,
+      "txHash": "0x3ff6ac7f92728110d9ac58f313a797cc07cfea26b0e45102dbb8e07221969a12",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_214",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "19405.10067277 CHZ",
+      "value": 19405.10067277,
+      "txHash": "0x91d53df390bd52770c413a9864e205703b7d7f555d81a66b066fa15b4fc9dbfc",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_215",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x59e0cda5922efba00a57794faf09bf6252d64126",
+      "label": "53.53632142 COMP",
+      "value": 53.53632142,
+      "txHash": "0x2f44abf691775e536cc43073b3af929ff7b9e2ca346a008466309fa74d23159c",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_216",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "143.13 AXS",
+      "value": 143.13,
+      "txHash": "0x4ef1b7052b5866e46f67272fb1e36e97998281be6dee55b591d483907914a60f",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_217",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "4396.9 CHZ",
+      "value": 4396.9,
+      "txHash": "0x9930817b0e30f765a6553bdfd2d4902bbe79be94da19c80d79727c106e53121d",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_218",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "12400.0 SKL",
+      "value": 12400,
+      "txHash": "0xe974ac43c33e6d16b800b6e953c7c023c84b557a34fe18378903fb2897365289",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_219",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "29017.27121462 ONDO",
+      "value": 29017.27121462,
+      "txHash": "0x50acc9a0f2690b32fad0aba2df4d7feb34ffff584af035796997a930c5935175",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_220",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x6b130820c449a27b35256a3c99942adbd53aac18",
+      "label": "81534.71244658 PROMPT",
+      "value": 81534.71244658,
+      "txHash": "0x21da4bd4e79f79415baea9525433b6b3c0524ce07568c6901fb8f36c4fe96022",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_221",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "252571.73125124 SKL",
+      "value": 252571.73125124,
+      "txHash": "0x5cb3295925465f9c02a4a7e1a83f4e8f33e23d163351e30738d1d2f97cb58e55",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_222",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x59e0cda5922efba00a57794faf09bf6252d64126",
+      "label": "1049.5 ZRX",
+      "value": 1049.5,
+      "txHash": "0xe94fdf441e7a7dfc3b6c5533a193fb0a7b02f8e572b2f08d2e1f4e44bd52758c",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_223",
+      "source": "0x8672a3a1c258d3a6601be83d9505365ef715afd6",
+      "target": "0x1579b5f6582c7a04f5ffeec683c13008c4b0a520",
+      "label": "1142.3 STG",
+      "value": 1142.3,
+      "txHash": "0x3c07e06abad6060170f7c5ad643411f2aaeca61c4e1557ef8c8e6aa0a7dfda47",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_224",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x00012a278c3fa0ea497ef4bb4d2885093a43c91e",
+      "label": "19.0 USDT",
+      "value": 19,
+      "txHash": "0x82040dffe9237dfb4614d564f9b22eded6d707f55f559b230a1e55d48850ba98",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_225",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xb5cf2ca46060ece8a330813b0a37a6669177fe0a",
+      "label": "0.21473907 ETH",
+      "value": 0.21473907,
+      "txHash": "0x4e37af72add6297d7a208f1795a815273d347362d915ea5f0490321a5d8893df",
+      "type": "native",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_226",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "label": "3910.84179706 DAI",
+      "value": 3910.84179706,
+      "txHash": "0x40faf5033994adae10714944b867f9bce0d34fab5f3b97e0e8e58714472a0905",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_227",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x874bec9a44a97843f2ce9dcca0d05b2a6550ab4d",
+      "label": "0.00705428 ETH",
+      "value": 0.00705428,
+      "txHash": "0x6ea760148bce4e642a07bead6a92941156d6729691a351c326847e0299a0a0a1",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_228",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xc894cc4349086f03ddd04800462332a338cd1859",
+      "label": "395.515476 USDC",
+      "value": 395.515476,
+      "txHash": "0x7b0886cdc503187681db578fb0f3bb9d66ea77fe06f8de7712ce4957d44b6381",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_229",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x027bd2b3fac84522c545727d63bb2791750c9e0f",
+      "label": "500.919879 USDT",
+      "value": 500.919879,
+      "txHash": "0x515ef95a18e635d828df3d4289d390c245621fdecbc39f3201d662303b8a4e22",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_230",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x6f2dc9e11146ce6c0403e5358a469a9c5b8588cb",
+      "label": "0.192944313948 ETH",
+      "value": 0.192944313948,
+      "txHash": "0xd0a8174edb29aa36b7e6919db65873415e8986b010a16113418a28fc0a9feefb",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_231",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x135f1ac0624f8dc728945d02e9f9c726d0489371",
+      "label": "0.192944313948 ETH",
+      "value": 0.192944313948,
+      "txHash": "0x4473e60ee355fcb03d696bd2e93d25d5f5047bd80ea2a2cdeb54bf571735d758",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_232",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x14112bc1e2808dab8ae8a6842c940edf611955ef",
+      "label": "1008.802908 USDT",
+      "value": 1008.802908,
+      "txHash": "0xa0b4e382d4ead970d3f3ae77ce4b9857fc15458791c1fc3ffea50ee60c257a36",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_233",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xf329828b38837729d1989398594c267821509c2a",
+      "label": "3911.86179706 DAI",
+      "value": 3911.86179706,
+      "txHash": "0xd2f526450b384e5c88ca1c7b327e472055fff08754b7ab98c27a031e9298238a",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_234",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x309c9d1233ca446b4bfa96c3a19593fcb1fe4a08",
+      "label": "200.843665 USDC",
+      "value": 200.843665,
+      "txHash": "0x8a1bc8e6f409d2e49d01a58845a2531ac8189779c6b2a43cbee8ad24d0fe1b98",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_235",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xcfaf456281b13c05ee52b6a3db07e8f3967632b1",
+      "label": "0.034390849162393593 ETH",
+      "value": 0.03439084916239359,
+      "txHash": "0x3a75e2c31ce00e4c56f18f620d5d18721f9311b6505d3501b1f8b59919e57924",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_236",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x92183ba312f2e63a5ee0ef1b800e20890395cb17",
+      "label": "1.0 QNT",
+      "value": 1,
+      "txHash": "0x0888e0beb372c35bb2ad2c9806e8cd70546b6b2beb30d4a76726dadd77f64d6d",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_237",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x9349e326415da81fcd478ab6cb1a45caf076f78b",
+      "label": "0.72628198 ETH",
+      "value": 0.72628198,
+      "txHash": "0x8c438df6e882fc3aa5307b381d10660528ee4e653fdc4bf83a843619740fccce",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_238",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xf4bcb58f907658ddb40156a673a5e7c4faff629f",
+      "label": "0.01935858916 ETH",
+      "value": 0.01935858916,
+      "txHash": "0xb99e7166cc1fa8c20ba202c02e3d36bc6ed1c5f07b3c6ba25b34c1537ccb0cdb",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_239",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x92183ba312f2e63a5ee0ef1b800e20890395cb17",
+      "label": "9953077.0 SHIB",
+      "value": 9953077,
+      "txHash": "0x4461f7b7e73df628da671a5a6918da2d67424712b55f80b2c63a0a13fc79fa7a",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_240",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x92183ba312f2e63a5ee0ef1b800e20890395cb17",
+      "label": "103007101.91987461 PEPE",
+      "value": 103007101.91987461,
+      "txHash": "0xd039e349efe887f2b179515e04715edb1eae81b75ff974ac6861d58739e2b5fd",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_241",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xe6d88fb54e177beb32983903ed1fe85950c9a787",
+      "label": "0.00309954 ETH",
+      "value": 0.00309954,
+      "txHash": "0x6b27a8522535e8fb20a96dbf6d03bf82138d5a7c9c9cb4e1d95b6af3de8d9df0",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_242",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xc8083e161a10d7b7c9783767933ee89cbd9124af",
+      "label": "28.299246 USDC",
+      "value": 28.299246,
+      "txHash": "0x615017bd596470894fc152fc675abc9966866f146a3cd4ccd32384bf1867d5f3",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_243",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x96de48cb3dce888cedb1c285d3d21412a9961d5e",
+      "label": "0.009469946296 ETH",
+      "value": 0.009469946296,
+      "txHash": "0x0a9b397757093d1a07a19a81b67d8663c7117f047fd8514b3a022df512adf47f",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_244",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xe9de7b9b0fc7f05751929c2345cff30e72d453a6",
+      "label": "13.035357 USDC",
+      "value": 13.035357,
+      "txHash": "0x68893c639597d749c16941fe1b515e024d7153c910df02de50bdcbd27afeb9f0",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_245",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x312791ccc29fa0ed1bc3d780f76b78dacd16d2f8",
+      "label": "0.003063164742506515 ETH",
+      "value": 0.003063164742506515,
+      "txHash": "0xfb37a29392a4db6e55c3d823546e627e716c5e810baf04ed8b66622be1d706da",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_246",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x89bd18dace3dd976197b6efec8d8d1f48caf9cd2",
+      "label": "0.1114399058 ETH",
+      "value": 0.1114399058,
+      "txHash": "0xc8b202520516efb223a6ae7370a5be8613043fce57af507219a4895fed4b80a9",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_247",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x6985f13d233853d558643ce8fb0a55c78723a59d",
+      "label": "0.157990872738494447 ETH",
+      "value": 0.15799087273849444,
+      "txHash": "0xea072bbf1d39fc52b5ba1896db48a87697281ae3372eb535b21b77b91a854e41",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_248",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x6985f13d233853d558643ce8fb0a55c78723a59d",
+      "label": "0.173799960328525637 ETH",
+      "value": 0.17379996032852563,
+      "txHash": "0x0e30bcc5fb5d5447471c42c3ec4a438bb33a6facb050ed906706f02a8c90cfd8",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_249",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x0b760b5b52b969c3379e2fababf37e7b185ded4f",
+      "label": "0.06809969 ETH",
+      "value": 0.06809969,
+      "txHash": "0xbe68b3e472311d5150a5b7a32fc0831dbffdc7e4e1a9dfd0816d728dc9c96d5e",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_250",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xcf3ceb5e6f388d4b62b5d85746eef4c8023e359e",
+      "label": "36.92 USDT",
+      "value": 36.92,
+      "txHash": "0xacfc2673b3a2ec2f80221149de56b287318d9ba854abcf6633fca078bab17407",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_251",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x6fb5919068eb83755de33d83b412afe52205beb2",
+      "label": "0.06372672125254912 ETH",
+      "value": 0.06372672125254912,
+      "txHash": "0x7ff1dab233cd5e85ed42b1ef244e1cf4348affaaddc25800b7fea02a65b4537d",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_252",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x23d2154f426075e44ddc9ee28da2ffd419448baa",
+      "label": "0.127577623452297628 ETH",
+      "value": 0.12757762345229762,
+      "txHash": "0x069c96acab6bc03ffa75ccf67cdd9e4c940c0e4eae55da101f13d1a3165d1754",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_253",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x6b6423b6d988f83ce2cf851ba0f52908a2e47d91",
+      "label": "48.83 USDC",
+      "value": 48.83,
+      "txHash": "0xdba993984ff70d59b0a925109de956ce7d63b29d3ec5c56706f772d263c43dcf",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_254",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xe93e67d21978a862ea1b0682ce2b0771e3b1e798",
+      "label": "0.010143329177302986 ETH",
+      "value": 0.010143329177302986,
+      "txHash": "0x8773a398fcde7132e681a6c89dc9c99ebd5a30cb7d8aa9fbdc4d5a242ce876d2",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_255",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x21ab38212aeb621a5b0ef90ce77b7dfb6063b795",
+      "label": "0.00627683 ETH",
+      "value": 0.00627683,
+      "txHash": "0x1402f33c2ab68407aba145b1e2f4e4a233d1271468d59c30ab515532c6f123c6",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_256",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xc2c63f3525f0439dd8068c45f84c988a9773aab8",
+      "label": "39.92 USDT",
+      "value": 39.92,
+      "txHash": "0x134e9fa49f24481c612b5a814b5b084c88a3a65ee15903b9eed3b2b8462c9909",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_257",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xc2c63f3525f0439dd8068c45f84c988a9773aab8",
+      "label": "66.41 USDT",
+      "value": 66.41,
+      "txHash": "0x4ede02e186991b34abd8b11e9c55fe5db158ef7f707402822b575abc7a6030ea",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_258",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xa2ec80e808bb62e39bb8833d45267bf8cc8eb824",
+      "label": "555.232738 USDC",
+      "value": 555.232738,
+      "txHash": "0xd074fdba1ef7d190f2829adea987505c790ed183380735832fb59c9d7e74bf5a",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_259",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xc2c63f3525f0439dd8068c45f84c988a9773aab8",
+      "label": "58.39 USDT",
+      "value": 58.39,
+      "txHash": "0xd5f523fe369c0088264e12cbcd52cd40dbf9bfbeeb7faca1a2a3639d3dc67e39",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_260",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xb60ec534b47b495701e495837896af560161cc7d",
+      "label": "0.001833918439390092 ETH",
+      "value": 0.001833918439390092,
+      "txHash": "0x09afa705d23d7ebc6bf474086ee9b627d9abf1fb38d21337f7dcd57d33a6a1b0",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_261",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xc2c63f3525f0439dd8068c45f84c988a9773aab8",
+      "label": "53.51 USDT",
+      "value": 53.51,
+      "txHash": "0x63b7e33a2455d331de3db289bc8b96f23dae159372d025efc52df09e11d4fc45",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_262",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xdcca895fb90275b481f2003efce888540b5ec5f5",
+      "label": "0.35141574 ETH",
+      "value": 0.35141574,
+      "txHash": "0x5ddb29fb4ca6d97b9c65832d5e2aee9a6b094ae4abdb0eb74e92488bea8a0189",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_263",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x6b6423b6d988f83ce2cf851ba0f52908a2e47d91",
+      "label": "147.490005 USDC",
+      "value": 147.490005,
+      "txHash": "0x2dd7d045b9de29acb474bb04b717486f68f3cb82839eab17a36f9502dcad25e9",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_264",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xbb84c3f3f1999cef737e3e1b4f6aae4f948b336f",
+      "label": "0.02703865 ETH",
+      "value": 0.02703865,
+      "txHash": "0xbc9449002d8e7d4e7e3aefa49f595296982aab4d709a4a421474d9b9c754c6c3",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_265",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x368b19bb1189f3ef1ede9ad2e50c0b39909c4f31",
+      "label": "152.082888 USDT",
+      "value": 152.082888,
+      "txHash": "0x015e4641ac7b0e5d957a323dff48d4d8b54b0bd751ad3d4d404deffaa4c472a8",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_266",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x9f167d12cff3813ab6266db958cffeb6e16e8434",
+      "label": "500.516705 USDT",
+      "value": 500.516705,
+      "txHash": "0x3cea31d75e5971d95f86a77d2fa334df49fd6ec6f0f2f4a45fe62f794dcf14de",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_267",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xf839d9d7bef6dc59b55c5ac6dd796cfddb393be6",
+      "label": "357.86 USDT",
+      "value": 357.86,
+      "txHash": "0x79decae1aee4640c34e80d39aa9b71973ac6ab6f69a8264dbccc6301d3769ae5",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_268",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xd9dad9ddbaff5958f3497c0bd7322f85519bb9d6",
+      "label": "300.0 USDT",
+      "value": 300,
+      "txHash": "0x0637b10c081546329d39550fa82dae4462517608de5a87c21f2343655b92ee25",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_269",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xe1413b9c6c5c82fa4d2181e55cbfdf227a661321",
+      "label": "2957.419686 USDT",
+      "value": 2957.419686,
+      "txHash": "0x3aa43cce312a4e2ff92e48ca3bac4ccb5935082e6f222c567c89ad8302495429",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_270",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xec7265f889ac15144257f81ab31ca4ad6780f13d",
+      "label": "205.54474 USDT",
+      "value": 205.54474,
+      "txHash": "0xcd3022f340af8f060dbd13700ce6bf219855292b0589669603456ab7ee534409",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_271",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x95a53bb02455c81cdef93bf1412c72fba4a588b1",
+      "label": "0.0078886125 ETH",
+      "value": 0.0078886125,
+      "txHash": "0x98396beed825b3af51e7e4c013e2270cac5d2ad91b70974d3b58b55bb29fd966",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_272",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xf5771d44fb1899b255e24d050052284fab0a059f",
+      "label": "0.081651958212 ETH",
+      "value": 0.081651958212,
+      "txHash": "0x7dcdca9265c9f402e9f4a6d54278a2798848a4bba569ca17507da44920ce3ad9",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_273",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xb4dd11f79f96568667df5b13c0f68ce4f76892d3",
+      "label": "0.04332338582 ETH",
+      "value": 0.04332338582,
+      "txHash": "0x2a3c4e58d10a0074d40003f70dc26d06657d553ea1e962a825d5a948b92323a9",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_274",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0xe6a1defe48288da95c9eb70633c6f41f056af335",
+      "label": "0.162334212803594583 ETH",
+      "value": 0.16233421280359459,
+      "txHash": "0x85afc8ade61254298868e3b9cc8d35e0ef545c6dfa3f3fecbbac71e9a6191e65",
+      "type": "native",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_275",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x4ea060b375d81b39869662e6fa9c07ea998b0aa4",
+      "label": "85.472426 USDC",
+      "value": 85.472426,
+      "txHash": "0x44b6ae1eaa7197d6cdef0bdaf8d65df0cce6e82b1eedaf51d4d3fde76a32de91",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_276",
+      "source": "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+      "target": "0x2b91ab7170ab76245672fc114607b69b33cac927",
+      "label": "1085.489523 USDT",
+      "value": 1085.489523,
+      "txHash": "0xbd7d49a4eb86fededa8a1d0e2d5b4bb34b841640818c10939fcb556618039ca2",
+      "type": "erc20",
+      "hopNumber": 2
+    },
+    {
+      "id": "edge_277",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0xfbf26d97658925cf335d2bbeecde4c1edcfdc680",
+      "label": "1208.0 USDT",
+      "value": 1208,
+      "txHash": "0xe1d7f407774a1fbe651cbad80c83f82f6ed9cb0a267914fa7d26d9383984f8d7",
+      "type": "erc20",
+      "hopNumber": 1
+    },
+    {
+      "id": "edge_278",
+      "source": "0x28c6c06298d514db089934071355e5743bf21d60",
+      "target": "0x26b5a3519002957b3b2bbe9bc25eeed8d9448a1c",
+      "label": "60165786.02 PEPE",
+      "value": 60165786.02,
+      "txHash": "0xa65903c23a8de4590005cf2b38a561f7936e11a89cd42d6be942052472c15f78",
+      "type": "erc20",
+      "hopNumber": 1
+    }
+  ]
+}
